@@ -23,7 +23,7 @@ npm start
 ---
 ## 🌍 Live Demo
 
-[**Visit IMDB-C Live**](https://gold-stream-two.vercel.app/)
+[**Visit IMDB-Clone Live**](http://imdb-clone-7w1v3sc78-skywalker690s-projects.vercel.app/)
 
 ---
 
